@@ -115,7 +115,7 @@ nav.sticky .menu-btn{
   height: 100vh;
   width: 100%;
   background: #F0F8FF;
-  background: url("https://github.com/ttv2004/Portfolio/blob/5e323a6af4129177062274807717f297e44c89df/Images/profile_pic.png") no-repeat;
+  background: url("Images/profile_pic.png") no-repeat;
   background-size: 30%;
   background-position: right;
   background-attachment: fixed;
